@@ -1,2 +1,3 @@
 # M.tech_Project
-Matlab code along with report and poster
+Project is about the cell-free vs user-centric approach of Massive MIMO Technology.
+Report as well as Poster is uploaded along with .
